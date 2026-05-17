@@ -122,6 +122,7 @@ usermod -aG sudo debianlabs
 reboot
 ```
 ### 2. Paquete de instalación de Git no encontrado
+
 Cuando el sistema no encuentra los paquetes de instalación de algún software el problema radica en mal escritura del comando y negatividad en conexión a internet.
 
 - Rectificar si la estructura del comando es correcta.
