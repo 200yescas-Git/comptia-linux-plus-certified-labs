@@ -95,7 +95,7 @@ git config --list
 git clone URL_DEL_REPOSITORIO
 ```
 
-
+### 2. 
 ## Errores y solución durante la instalación de Git en Debian
 
 ### 1. Usuario sin permiso sudo
