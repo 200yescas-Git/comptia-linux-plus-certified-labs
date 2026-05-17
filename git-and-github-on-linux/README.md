@@ -87,13 +87,14 @@ git config --global user.email 200yescas@gmail.com
 git config --list
 ```
 
-# Flujo básico de trabajo con Git y GitHub
+## Flujo básico de trabajo con Git y GitHub
 
-## 1. Clonar el repositorio
+### 1. Clonar el repositorio
 
 ```bash
 git clone URL_DEL_REPOSITORIO
 ```
+
 
 ## Errores y solución durante la instalación de Git en Debian
 
