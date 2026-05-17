@@ -66,8 +66,19 @@ sudo apt install git -y
 ```bash
 git --version
 ```
-### 3. 
+### 3. Configuración incial de Git
+- Git almacena de forma local por lo que se requiere conectar a nuestra cuenta GitHub para guardar repositorios de forma remota.
 
+- El primer comando de configuración es colocar el nombre de la persona que realizara labores dentro del sistema.
+
+```bash
+git config --global user.name "Brayan Yescas"
+```
+
+- Colocar el correo electrónico del usuario para enlazar repositorios.
+
+```bash
+```
 ## Errores y solución durante la instalación de Git en Debian
 
 ### 1. Usuario sin permiso sudo
