@@ -66,7 +66,7 @@ sudo apt install git -y
 ```bash
 git --version
 ```
-### 3. Configuración incial de Git
+### 3. Configuración inicial de Git
 - Git almacena de forma local por lo que se requiere conectar a nuestra cuenta GitHub para guardar repositorios de forma remota.
 
 - El primer comando de configuración es colocar el nombre de la persona que realizara labores dentro del sistema.
