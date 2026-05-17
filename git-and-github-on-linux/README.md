@@ -78,7 +78,15 @@ git config --global user.name "Brayan Yescas"
 - Colocar el correo electrónico del usuario para enlazar repositorios.
 
 ```bash
+git config --global user.email 200yescas@gmail.com
 ```
+
+- listar los datos para confirmar la los comandos anteriores
+
+```bash
+git config --list
+```
+
 ## Errores y solución durante la instalación de Git en Debian
 
 ### 1. Usuario sin permiso sudo
