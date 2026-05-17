@@ -61,12 +61,17 @@ sudo apt install git -y
 ```
 
 ### 2. Verificación de instalación de Git
+- Para verificar si Git se encuentra instalado en  nuestro sistema revisar de forma manual con el siguiente comando:
 
-- 
+```bash
+git --version
+```
+### 3. 
 
 ## Errores y solución durante la instalación de Git en Debian
 
 ### 1. Usuario sin permiso sudo
+
 Durante la actualización de los paquetes del sistema el usuario debianlabs no contaba con permisos sudo por ende se optó ingresar con usuario root y agrgear al grupo de sudo con los siguientes comandos.
 
 ```bash
