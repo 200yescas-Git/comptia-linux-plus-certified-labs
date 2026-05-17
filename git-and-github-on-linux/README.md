@@ -60,6 +60,9 @@ sudo apt update
 sudo apt install git -y
 ```
 
+### 2. Verificación de instalación de Git
+
+- 
 
 ## Errores y solución durante la instalación de Git en Debian
 
@@ -116,7 +119,7 @@ cat /etc/apt/sources.list
 sudo nano /etc/apt/sources.list
 ```
 
-- Escribir los siguientes repositorios oficiales.
+- Escribir los siguientes repositorios oficiales de la versión de Debian 13.4.0 Trixie 
 
 ```
 deb http://deb.debian.org/debian trixie main contrib non-free non-free-firmware
