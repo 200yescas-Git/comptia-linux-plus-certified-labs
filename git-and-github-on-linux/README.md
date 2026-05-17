@@ -181,3 +181,8 @@ sudo apt upgrade -y
 
 - De esta forma nuestros paquetes están actualizados para futuras instalaciones de software en nuestro sistema.
 
+## Instalación de Git en CentOS Stream 10
+
+### 1. Arrancar la máquina virtual de CentOS Stream 10
+
+- 
