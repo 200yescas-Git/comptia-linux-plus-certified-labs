@@ -89,13 +89,15 @@ git config --list
 
 ## Flujo básico de trabajo con Git y GitHub
 
-### 1. Clonar el repositorio
+### 1. Definir una ruta específica para el repositorio remoto
+
+- Clonar repositorio remoto
 
 ```bash
 git clone URL_DEL_REPOSITORIO
 ```
 
-### 2. 
+
 ## Errores y solución durante la instalación de Git en Debian
 
 ### 1. Usuario sin permiso sudo
