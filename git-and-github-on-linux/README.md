@@ -190,4 +190,18 @@ El entorno gráfico de CentOS Stream 10 es muy diferente ya que es una instalaci
 - Al iniciar se muestra el entorno servidor con la versión del S.O y kernel
 - Ingresar usuario localhost login: root
 - Password: ********
-- 
+
+### 2. Actualizar el sistema de paquetes dnf
+
+- Actualizar el sistema de paquetes en la CLI:
+
+```bash
+sudo dnf update -y
+```
+
+- Una vez ya actualizado los paquetes,es hora de instalar Git
+
+```bash
+sudo dnf install git -y
+```
+
