@@ -235,4 +235,10 @@ git config --list
 
 ## Evidencias del proceso de instalación
 
+Adjunto screenshots en las carpetas siguientes:
+
+* Git en Debian
+
+```
+```
 
