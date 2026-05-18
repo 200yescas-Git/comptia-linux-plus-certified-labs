@@ -270,4 +270,5 @@ Incluyen:
 - Git instalado para empezar a documentar de forma local en ambos sistemas
 - Repositorio actual clonado
 
-
+> [!NOTE]
+> Este centro de pruebas o laboratorio forma parte para mi preparación en obtener la certificación CompTIA Linux+ y prepararme para roles SysAdmin/DevOps/Infraestructure IT
