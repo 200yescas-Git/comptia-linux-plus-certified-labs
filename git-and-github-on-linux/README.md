@@ -240,5 +240,10 @@ Adjunto screenshots en las carpetas siguientes:
 * Git en Debian
 
 ```
+assets/screenshots/debian-git-installation
 ```
 
+* Git en CentOS Stream 10
+
+```
+```
