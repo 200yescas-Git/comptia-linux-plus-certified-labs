@@ -254,4 +254,20 @@ Incluyen:
 - Instalación de Git en cada laboratorio
 - Configuración de usuario y cuenta de correo electrónico
 - Errores y solución presentados durante la instalación
-- 
+- Clonación de repositorio remoto
+
+## Aprendizaje obtenido
+
+- Diferencias de paquetes de instalación en cada distribución
+- Configuración básica de Git
+- Organización de estructura de repositorios
+- Git para trabajar en formato colaborativo
+- Truobleshooting
+- Linux en entorno escritorio y server
+
+## Estado del laboratorio
+- Laboratorios o centros de pruebas funcionales
+- Git instalado para empezar a documentar de forma local en ambos sistemas
+- Repositorio actual clonado
+
+
