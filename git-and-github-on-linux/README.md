@@ -205,3 +205,14 @@ sudo dnf update -y
 sudo dnf install git -y
 ```
 
+### 3. Verificación de la instalación de Git
+
+- La verificación se realiza de forma sencilla con el siguiente comando
+
+```bash
+git --version
+```
+
+### 4. Configuración inicial de Git
+
+
