@@ -185,4 +185,9 @@ sudo apt upgrade -y
 
 ### 1. Arrancar la máquina virtual de CentOS Stream 10
 
+El entorno gráfico de CentOS Stream 10 es muy diferente ya que es una instalación mínima;es decir,un estado más puro,un proceso crudo sin animaciones y colores llamativos.
+
+- Al iniciar se muestra el entorno servidor con la versión del S.O y kernel
+- Ingresar usuario localhost login: root
+- Password: ********
 - 
