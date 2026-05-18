@@ -249,6 +249,9 @@ assets/screenshots/debian-git-installation
 assets/screenshots/centos-git-installation
 ```
 
-## Incluye
+Incluyen:
 
--
+- Instalación de Git en cada laboratorio
+- Configuración de usuario y cuenta de correo electrónico
+- Errores y solución presentados durante la instalación
+- 
