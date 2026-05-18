@@ -215,4 +215,22 @@ git --version
 
 ### 4. Configuración inicial de Git
 
+- Inicio de configuración para repositorios local y remoto agregando nombre del usuario
+
+```bash
+git config --global user.name "Brayan Yescas"
+```
+
+- Agregar correo electrónico de nuestra cuenta GitHub
+
+```bash
+git config --global user.email 200yescas@gmail.com
+```
+
+- Verificar los datos agregados
+
+```bash
+git config --list
+```
+
 
