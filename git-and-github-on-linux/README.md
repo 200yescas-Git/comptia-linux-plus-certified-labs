@@ -246,4 +246,9 @@ assets/screenshots/debian-git-installation
 * Git en CentOS Stream 10
 
 ```
+assets/screenshots/centos-git-installation
 ```
+
+## Incluye
+
+-
