@@ -233,4 +233,6 @@ git config --global user.email 200yescas@gmail.com
 git config --list
 ```
 
+## Evidencias del proceso de instalación
+
 
