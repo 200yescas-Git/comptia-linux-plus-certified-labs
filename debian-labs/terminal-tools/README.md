@@ -70,4 +70,8 @@ terminator
 - Agrego screenshots en la siguiente carpeta:
 
 ```
+assets/screenshots/debian-terminator-installation
 ```
+
+Incluyen:
+- 
