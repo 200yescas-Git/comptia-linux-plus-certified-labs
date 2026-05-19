@@ -21,4 +21,14 @@ sudo apt update
 sudo apt install terminator -y
 ```
 
+### 2. Verificar instalación y versión de Terminator
+
+- Para empezar a trabajar en terminator terminal realizamos verificación:
+
+```bash
+terminator --version
+```
+
+
+
 
