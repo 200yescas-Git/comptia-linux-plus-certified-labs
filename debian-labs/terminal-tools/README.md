@@ -74,4 +74,17 @@ assets/screenshots/debian-terminator-installation
 ```
 
 Incluyen:
+
+- Proceso de instalación
+- Verificación de la correcta instalación de Terminator
+- Exploración y pruebas del software
+
+## Aprendizaje
+
+- Instalación de software externo
+- Fácil manejo de la línea de comandos
+- Trabajar con Terminator Terminal Emulator
+
+## Estado del laboratorio
+
 - 
