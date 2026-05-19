@@ -29,6 +29,25 @@ sudo apt install terminator -y
 terminator --version
 ```
 
+## Ejecutar Terminator para explorar su interfaz
+
+- Para ejecutar a Termiantor simplemente escribir el nombre en la terminal
+
+```bash
+terminator
+```
+
+## Atajos útiles de Terminator
+
+| Acción | Atajo |
+|---|---|
+| Dividir terminal verticalmente | `Ctrl + Shift + E` |
+| Dividir terminal horizontalmente | `Ctrl + Shift + O` |
+| Crear nueva pestaña | `Ctrl + Shift + T` |
+| Cerrar terminal o pestaña | `Ctrl + Shift + W` |
+| Cambiar entre terminales divididas | `Alt + Flechas` |
+| Maximizar terminal actual | `Ctrl + Shift + X` |
+| Restablecer zoom | `Ctrl + Shift + X` |
 
 
 
