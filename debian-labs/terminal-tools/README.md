@@ -49,5 +49,25 @@ terminator
 | Maximizar terminal actual | `Ctrl + Shift + X` |
 | Restablecer zoom | `Ctrl + Shift + X` |
 
+## Beneficios
+## Beneficios de Terminator
 
+| Beneficio | Descripción |
+|---|---|
+| Multiples terminales en una sola ventana | Permite trabajar con varios paneles simultáneamente |
+| División de pantalla | Facilita la administración de múltiples sesiones al mismo tiempo |
+| Mejor organización | Reduce la necesidad de abrir muchas ventanas separadas |
+| Pestañas integradas | Permite mantener diferentes sesiones organizadas |
+| Productividad | Mejora el flujo de trabajo en administración Linux y automatización |
+| Ideal para SSH | Facilita conexiones simultáneas a múltiples servidores |
+| Compatible con Linux | Disponible en diversas distribuciones Linux |
+| Personalización | Permite modificar apariencia, atajos y comportamiento |
+| Uso profesional | Muy utilizado en ambientes SysAdmin, DevOps y ciberseguridad |
+| Ligero y eficiente | Consume pocos recursos del sistema |
 
+## Evidencias de la instalación de Terminator Terminal Emulator
+
+- Agrego screenshots en la siguiente carpeta:
+
+```
+```
