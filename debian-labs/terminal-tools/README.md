@@ -87,4 +87,8 @@ Incluyen:
 
 ## Estado del laboratorio
 
-- 
+- Laboratorio estable y actualizado
+- Terminator es fluidez eso permite acelerar la línea de comandos
+- Listo para seguir con la ruta hacía la certificación
+
+
