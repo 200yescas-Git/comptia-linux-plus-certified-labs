@@ -8,10 +8,7 @@ Instalar el paquete de GNOME terminator para tener un mejor rendimiento a lo lar
 
 ## Proceso de instalación de GNOME terminator en Debian 13.4.0 Trixie
 
-### 1. Ir a la página oficial de GNOME terminator
-
-- Es importante acceder a páginas oficiales para evitar posibles vulnerabilidades a nuestro sistema ,la página oficil es:
-- `https://gnome-terminator.org/`
+### 1. Iniciar Debian e ir a la terminal
 
 > [!NOTE]
 >  No hay necesidad de añadir repositorios ya que Terminator forma parte de un proyecto independiente a cualquier distribución linux,ya se encuentra dentro de Debian en la última actualización de los repositorios realizado en el trasncurso de las prácticas.
