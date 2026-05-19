@@ -91,7 +91,7 @@ Incluyen:
 - Terminator es fluidez eso permite acelerar la línea de comandos
 - Listo para seguir con la ruta hacía la certificación
 
- [!NOTE]
+> [!NOTE]
 > Este centro de pruebas o laboratorio forma parte para mi preparación en obtener la certificación CompTIA Linux+ y prepararme para roles SysAdmin/DevOps/Infraestructure IT
 
 
