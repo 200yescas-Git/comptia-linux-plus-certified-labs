@@ -26,7 +26,7 @@ man ls
 
 Muestra el manual completo del comando `ls`
 
-### Opciones comunes del comando `man`
+## Opciones comunes del comando `man`
 
 | Comando | Descripción |
 |---|---|
@@ -39,7 +39,7 @@ Muestra el manual completo del comando `ls`
 | `man -w comando` | Muestra la ubicación del archivo manual |
 | `man -P cat comando` | Muestra el manual sin paginador |
 
-# Ejemplos prácticos
+## Ejemplos prácticos
 
 ## Consultar manual de un comando
 
