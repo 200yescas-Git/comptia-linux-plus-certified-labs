@@ -1,3 +1,16 @@
 # Linux Man Pages
 
-Cuando no tenemos acceso a internet o se nos ha olvidado la estructura de un comando en específico 
+Cuando no tenemos acceso a internet o se nos ha olvidado la estructura de un comando en específico,podemos recurrir a las páginas del manual de ayuda.
+
+## Obejtivo
+
+Obtener el conocimiento para acudir de forma fácil y precisa a las páginas del manual de ayuda,en algún momento de nuestro viaje a la administración de sistemas Linux será necesario explorar su documentación.
+
+## Introducción
+
+MAN dispone de multiples opciones para que el usuario disfrute de la máxima flexibilidad ya que se pueden hacer cambios en la ruta de búsqueda de información,el orden de las secciones y otros mecanismos.
+
+## Uso básico de Man
+
+### Sintaxis Básica
+
