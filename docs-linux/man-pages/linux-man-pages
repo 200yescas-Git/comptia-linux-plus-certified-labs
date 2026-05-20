@@ -24,7 +24,7 @@ man comando
 man ls
 ```
 
-Muestra el manual completo del comando `ls`
+Muestra el manual completo del comando `ls`.
 
 ## Opciones comunes del comando `man`
 
@@ -49,8 +49,6 @@ man pwd
 
 Muestra información completa del comando `pwd`.
 
----
-
 ## Buscar comandos relacionados
 
 ```bash
@@ -58,8 +56,6 @@ man -k network
 ```
 
 Busca comandos relacionados con la palabra `network`.
-
----
 
 ## Mostrar descripción corta
 
@@ -69,8 +65,6 @@ man -f git
 
 Muestra una breve descripción del comando `git`.
 
----
-
 ## Consultar una sección específica
 
 ```bash
@@ -78,8 +72,6 @@ man 5 passwd
 ```
 
 Abre la sección 5 del archivo de configuración `passwd`.
-
----
 
 # Navegación dentro de `man`
 
@@ -91,8 +83,6 @@ Abre la sección 5 del archivo de configuración `passwd`.
 | Buscar texto | `/texto` |
 | Ir a siguiente coincidencia | `n` |
 | Salir del manual | `q` |
-
----
 
 # Secciones comunes de las páginas `man`
 
@@ -106,8 +96,6 @@ Abre la sección 5 del archivo de configuración `passwd`.
 | `6` | Juegos |
 | `7` | Convenciones y misceláneos |
 | `8` | Comandos administrativos |
-
----
 
 # Importancia de las páginas `man`
 
