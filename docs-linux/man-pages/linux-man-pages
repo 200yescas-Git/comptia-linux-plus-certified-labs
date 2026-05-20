@@ -41,7 +41,7 @@ Muestra el manual completo del comando `ls`.
 
 ## Ejemplos prácticos
 
-## Consultar manual de un comando
+### Consultar manual de un comando
 
 ```bash
 man pwd
@@ -49,7 +49,7 @@ man pwd
 
 Muestra información completa del comando `pwd`.
 
-## Buscar comandos relacionados
+### Buscar comandos relacionados
 
 ```bash
 man -k network
@@ -57,7 +57,7 @@ man -k network
 
 Busca comandos relacionados con la palabra `network`.
 
-## Mostrar descripción corta
+### Mostrar descripción corta
 
 ```bash
 man -f git
@@ -65,7 +65,7 @@ man -f git
 
 Muestra una breve descripción del comando `git`.
 
-## Consultar una sección específica
+### Consultar una sección específica
 
 ```bash
 man 5 passwd
@@ -73,7 +73,7 @@ man 5 passwd
 
 Abre la sección 5 del archivo de configuración `passwd`.
 
-# Navegación dentro de `man`
+## Navegación dentro de `man`
 
 | Acción | Tecla |
 |---|---|
@@ -84,7 +84,7 @@ Abre la sección 5 del archivo de configuración `passwd`.
 | Ir a siguiente coincidencia | `n` |
 | Salir del manual | `q` |
 
-# Secciones comunes de las páginas `man`
+## Secciones comunes de las páginas `man`
 
 | Sección | Contenido |
 |---|---|
@@ -97,7 +97,7 @@ Abre la sección 5 del archivo de configuración `passwd`.
 | `7` | Convenciones y misceláneos |
 | `8` | Comandos administrativos |
 
-# Importancia de las páginas `man`
+## Importancia de las páginas `man`
 
 Las páginas manuales son fundamentales en Linux porque permiten:
 - consultar documentación rápidamente
