@@ -1,4 +1,4 @@
-#Debian 13.4.0 Trixie ISO
+# Debian 13.4.0 Trixie ISO
 
 ## Información
 - Distribución: Debian 13.4.0 Trixie
