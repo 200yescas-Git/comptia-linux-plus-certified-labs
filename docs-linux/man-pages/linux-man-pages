@@ -14,3 +14,113 @@ MAN dispone de multiples opciones para que el usuario disfrute de la máxima fle
 
 ### Sintaxis Básica
 
+```bash
+man comando
+```
+
+- Ejemplo
+
+```bash
+man ls
+```
+
+Muestra el manual completo del comando `ls`
+
+### Opciones comunes del comando `man`
+
+| Comando | Descripción |
+|---|---|
+| `man comando` | Muestra el manual completo de un comando |
+| `man man` | Abre el manual del propio comando `man` |
+| `man -k palabra` | Busca comandos relacionados con una palabra clave |
+| `man -f comando` | Muestra una descripción corta del comando |
+| `man 5 passwd` | Abre una sección específica del manual |
+| `man -a comando` | Muestra todas las páginas disponibles de un comando |
+| `man -w comando` | Muestra la ubicación del archivo manual |
+| `man -P cat comando` | Muestra el manual sin paginador |
+
+# Ejemplos prácticos
+
+## Consultar manual de un comando
+
+```bash
+man pwd
+```
+
+Muestra información completa del comando `pwd`.
+
+---
+
+## Buscar comandos relacionados
+
+```bash
+man -k network
+```
+
+Busca comandos relacionados con la palabra `network`.
+
+---
+
+## Mostrar descripción corta
+
+```bash
+man -f git
+```
+
+Muestra una breve descripción del comando `git`.
+
+---
+
+## Consultar una sección específica
+
+```bash
+man 5 passwd
+```
+
+Abre la sección 5 del archivo de configuración `passwd`.
+
+---
+
+# Navegación dentro de `man`
+
+| Acción | Tecla |
+|---|---|
+| Avanzar línea | `Enter` |
+| Avanzar página | `Space` |
+| Retroceder página | `b` |
+| Buscar texto | `/texto` |
+| Ir a siguiente coincidencia | `n` |
+| Salir del manual | `q` |
+
+---
+
+# Secciones comunes de las páginas `man`
+
+| Sección | Contenido |
+|---|---|
+| `1` | Comandos de usuario |
+| `2` | Llamadas al sistema |
+| `3` | Funciones de librerías |
+| `4` | Dispositivos y archivos especiales |
+| `5` | Archivos de configuración |
+| `6` | Juegos |
+| `7` | Convenciones y misceláneos |
+| `8` | Comandos administrativos |
+
+---
+
+# Importancia de las páginas `man`
+
+Las páginas manuales son fundamentales en Linux porque permiten:
+- consultar documentación rápidamente
+- aprender nuevas opciones de comandos
+- resolver dudas directamente desde terminal
+- trabajar sin conexión a internet
+- mejorar habilidades de administración Linux
+
+Son ampliamente utilizadas en ambientes:
+- SysAdmin
+- DevOps
+- ciberseguridad
+- servidores Linux
+- infraestructura TI
