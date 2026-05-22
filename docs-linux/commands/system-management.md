@@ -51,7 +51,9 @@ sudo init 0
 Los screenshots se encuentran en la siguiente carpeta:
 
 ```
+assets/screenshots/linux-commands/system-management-commands
 ```
+
 ## Conclusión
 
 Los comandos de administración del sistema permiten controlar el estado operativo de Linux, incluyendo apagado, reinicio y gestión básica del sistema.
