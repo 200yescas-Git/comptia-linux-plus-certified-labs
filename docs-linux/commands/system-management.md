@@ -20,3 +20,17 @@ Linux proporciona una serie de comandos del sistema para reiniciar,apagar o camb
 | `init 6` | Cambia al runlevel 6 (reinicio) |
 | `systemctl reboot` | Reinicia usando systemd |
 | `systemctl poweroff` | Apaga usando systemd |
+
+## Ejemplos prácticos
+
+### Reiniciar Sistema
+
+```bash
+sudo shutdown now
+```
+
+### Apagar sistema
+
+```bash
+sudo shutdown now
+```
