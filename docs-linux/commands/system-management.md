@@ -40,3 +40,13 @@ sudo shutdown now
 ```bash
 sudo init 0
 ```
+
+> [!NOTE]
+> Los comandos `init 0` e `init 6` son comandos tradicionales basados en SysVinit.
+> En distribuciones Linux modernas se utiliza principalmente `systemctl` debido al uso de `systemd`.
+> Es necesario tener privilegios para poder ejecutar esos comandos dentro de la administración de sistemas linux.
+
+## Conclusión
+
+Los comandos de administración del sistema permiten controlar el estado operativo de Linux, incluyendo apagado, reinicio y gestión básica del sistema.
+
