@@ -46,6 +46,12 @@ sudo init 0
 > En distribuciones Linux modernas se utiliza principalmente `systemctl` debido al uso de `systemd`.
 > Es necesario tener privilegios para poder ejecutar esos comandos dentro de la administración de sistemas linux.
 
+## Evidencia
+
+Los screenshots se encuentran en la siguiente carpeta:
+
+```
+```
 ## Conclusión
 
 Los comandos de administración del sistema permiten controlar el estado operativo de Linux, incluyendo apagado, reinicio y gestión básica del sistema.
