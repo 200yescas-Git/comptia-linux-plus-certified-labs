@@ -1,6 +1,6 @@
 # System Management commands
 
-## Obejtivo
+## Objetivo
 
 Aprender comandos básicos para la administración de sistemas linux y la gestión del estado de nuestra máquina.
 
