@@ -113,6 +113,14 @@ Son ampliamente utilizadas en ambientes:
 - servidores Linux
 - infraestructura TI
 
+## Evidencias
+
+Los screenshots se encuentran el la siguiente carpeta
+
+```
+assets/screenshots/linux-debian-commands/man-pages
+```
+
 ## Conclusión
 
 El comando `man` es una herramienta esencial en Linux para consultar documentación técnica directamente desde la terminal. Su uso permite mejorar la administración del sistema, comprender comandos y trabajar de manera más profesional en entornos Linux.
