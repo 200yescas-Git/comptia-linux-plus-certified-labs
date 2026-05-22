@@ -115,7 +115,7 @@ Son ampliamente utilizadas en ambientes:
 
 ## Evidencias
 
-Los screenshots se encuentran el la siguiente carpeta
+Los screenshots se encuentran el la siguiente carpeta:
 
 ```
 assets/screenshots/linux-debian-commands/man-pages
