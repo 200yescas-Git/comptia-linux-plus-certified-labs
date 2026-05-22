@@ -23,14 +23,20 @@ Linux proporciona una serie de comandos del sistema para reiniciar,apagar o camb
 
 ## Ejemplos prácticos
 
-### Reiniciar Sistema
+### Reiniciar sistema
 
 ```bash
-sudo shutdown now
+sudo reboot
 ```
 
 ### Apagar sistema
 
 ```bash
 sudo shutdown now
+```
+
+### Cambiar a runlevel 0
+
+```bash
+sudo init 0
 ```
