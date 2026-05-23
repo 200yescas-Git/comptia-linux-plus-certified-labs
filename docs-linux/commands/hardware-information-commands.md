@@ -38,4 +38,31 @@ sudo apt install lshw
 sudo dnf install lshw
 ```
 
+## Comando `lshw`
+
+El comando `lshw` (List Hardware) muestra información detallada sobre los componentes físicos del sistema.
+
+## Ejemplo básico
+
+```bash
+sudo lshw
+```
+
+#### Mostrar Resumen Corto del Hardware
+
+```bash
+sudo lshw -short
+```
+
+#### Mostrar Información de Red
+
+```bash
+sudo lshw -class network
+```
+
+#### Mostrar Información de Discos
+
+```bash
+sudo lshw -class disk
+```
 
