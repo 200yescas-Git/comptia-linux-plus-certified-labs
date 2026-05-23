@@ -143,6 +143,7 @@ sudo dmidecode -t system
 
 Los comandos `lshw` y `dmidecode` son herramientas fundamentales para administradores Linux y profesionales de infraestructura, ya que permiten analizar y diagnosticar el hardware directamente desde la terminal.
 
+
 Los comandos `free` y `lspci` permiten obtener información importante sobre:
 - memoria RAM
 - memoria swap
