@@ -141,3 +141,15 @@ Los comandos `lshw` y `dmidecode` son herramientas fundamentales para administra
 
 ## Evidencias
 
+Los screenshots de la practica se encuentran en la siguiente carpeta:
+
+```
+assets/screenshots/hardware-information-commands
+```
+
+## Conclusión
+
+- `lshw` permite visualizar hardware detectado directamente por el kernel de Linux.
+- `dmidecode` obtiene información almacenada en BIOS/SMBIOS, como fabricante, memoria RAM y datos del sistema.
+
+Aprender a utilizar estas herramientas fortalece las habilidades de administración y análisis de sistemas en Linux.
