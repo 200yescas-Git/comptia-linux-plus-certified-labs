@@ -153,3 +153,27 @@ El comando free nos sirve para obtener información de la memoria RAM y memoria 
 free
 ```
 
+#### Mostrar Información en Formato Legible
+
+```bash
+free -h
+```
+
+#### Actualizar Información Cada 2 Segundos
+
+```bash
+free -s 2
+```
+
+#### Mostrar Memoria en Megabytes
+
+```bash
+free -m
+```
+
+#### Mostrar Memoria en Gigabytes
+
+```bash
+free -g
+```
+
