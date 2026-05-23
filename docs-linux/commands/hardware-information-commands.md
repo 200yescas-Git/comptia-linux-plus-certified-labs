@@ -124,3 +124,20 @@ sudo dmidecode -t system
 - Obtener datos de la motherboard
 - Consultar números de serie y versiones
 
+> [!NOTE]
+> Requiere privilegios de root.
+> Útil para visualizar información del BIOS, placa madre, RAM y fabricante del sistema.
+
+## Diferencias Entre lshw y dmidecode
+
+| Comando | Función |
+|---|---|
+| `lshw` | Muestra hardware detectado por el kernel de Linux |
+| `dmidecode` | Muestra información almacenada en BIOS/SMBIOS |
+
+## Importancia
+
+Los comandos `lshw` y `dmidecode` son herramientas fundamentales para administradores Linux y profesionales de infraestructura, ya que permiten analizar y diagnosticar el hardware directamente desde la terminal.
+
+## Evidencias
+
