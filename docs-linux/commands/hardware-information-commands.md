@@ -42,7 +42,7 @@ sudo dnf install lshw
 
 El comando `lshw` (List Hardware) muestra información detallada sobre los componentes físicos del sistema.
 
-## Ejemplo básico
+### Ejemplo básico
 
 ```bash
 sudo lshw
@@ -77,7 +77,7 @@ sudo lshw -class disk
 > Requiere privilegios de root para mostrar toda la información.
 > Útil para diagnóstico e inventario de hardware.
 
-### Instalación de dmidecode
+## Instalación de dmidecode
 
 #### Sistemas Basados en Debian
 
@@ -91,7 +91,11 @@ sudo apt install dmidecode
 sudo dnf install dmidecode
 ```
 
-## Ejemplo básico
+## Comando `dmidecode`
+
+El comando `dmidecode` obtiene información del hardware desde la tabla DMI/SMBIOS del sistema.
+
+### Ejemplo básico
 
 ```bash
 sudo dmidecode
@@ -139,17 +143,13 @@ sudo dmidecode -t system
 
 Los comandos `lshw` y `dmidecode` son herramientas fundamentales para administradores Linux y profesionales de infraestructura, ya que permiten analizar y diagnosticar el hardware directamente desde la terminal.
 
-## Evidencias
+## Comando `free`
 
-Los screenshots de la practica se encuentran en la siguiente carpeta:
+El comando free nos sirve para obtener información de la memoria RAM y memoria swap en linux.
 
+### Ejemplo básico
+
+```bash
+free
 ```
-assets/screenshots/hardware-information-commands
-```
 
-## Conclusión
-
-- `lshw` permite visualizar hardware detectado directamente por el kernel de Linux.
-- `dmidecode` obtiene información almacenada en BIOS/SMBIOS, como fabricante, memoria RAM y datos del sistema.
-
-Aprender a utilizar estas herramientas fortalece las habilidades de administración y análisis de sistemas en Linux.
