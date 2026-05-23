@@ -197,4 +197,25 @@ free -m
 free -g
 ```
 
+## Funciones principales de `free`
+
+- Consultar el uso de memoria RAM del sistema
+- Mostrar memoria libre y utilizada
+- Visualizar memoria swap
+- Monitorear recursos del sistema
+- Analizar consumo de memoria
+- Ayudar en tareas de troubleshooting y rendimiento
+- Verificar memoria disponible para aplicaciones
+- Obtener información rápida del estado de la memoria
+
+## Comando `lspci`
+
+El comando `lspci` muestra información sobre los dispositivos conectados al bus PCI del sistema.
+
+## Ejemplo Básico
+
+```bash
+lspci
+```
+
 
