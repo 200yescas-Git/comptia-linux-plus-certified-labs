@@ -115,3 +115,12 @@ sudo dmidecode -t memory
 ```bash
 sudo dmidecode -t system
 ```
+
+## Funciones principales
+
+- Mostrar información del BIOS
+- Consultar fabricante del sistema
+- Ver información de memoria RAM
+- Obtener datos de la motherboard
+- Consultar números de serie y versiones
+
