@@ -70,3 +70,15 @@ sudo lshw -class disk
 > Requiere privilegios de root para mostrar toda la información.
 > Útil para diagnóstico e inventario de hardware.
 
+### Instalación de dmidecode
+
+#### Sistemas Basados en Debian
+```bash
+sudo apt install dmidecode
+```
+
+#### Sistemas Basados en Red Hat
+```bash
+sudo dnf install dmidecode
+```
+
