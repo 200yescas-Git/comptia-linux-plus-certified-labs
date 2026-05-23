@@ -102,3 +102,16 @@ sudo dmidecode
 ```bash
 sudo dmidecode -t bios
 ```
+
+
+#### Mostrar Información de Memoria RAM
+
+```bash
+sudo dmidecode -t memory
+```
+
+#### Mostrar Información del Sistema
+
+```bash
+sudo dmidecode -t system
+```
