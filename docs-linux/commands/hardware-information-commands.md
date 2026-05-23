@@ -82,3 +82,9 @@ sudo apt install dmidecode
 sudo dnf install dmidecode
 ```
 
+## Ejemplo básico
+
+```bash
+sudo dmidecode
+```
+
