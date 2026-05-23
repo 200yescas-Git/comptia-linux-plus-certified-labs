@@ -8,6 +8,8 @@ Aprender comandos básicos para la obtención de información de nuestro equipo,
 
 Linux proporciona diferentes herramientas para consultar información del hardware del sistema desde la terminal.
 
+## Comandos lshw y dmidecode
+
 Los comandos `lshw` y `dmidecode` permiten visualizar detalles importantes sobre:
 - procesador
 - memoria RAM
@@ -143,6 +145,7 @@ sudo dmidecode -t system
 
 Los comandos `lshw` y `dmidecode` son herramientas fundamentales para administradores Linux y profesionales de infraestructura, ya que permiten analizar y diagnosticar el hardware directamente desde la terminal.
 
+## Comandos free y lspci
 
 Los comandos `free` y `lspci` permiten obtener información importante sobre:
 - memoria RAM
