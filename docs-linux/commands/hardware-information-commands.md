@@ -66,3 +66,7 @@ sudo lshw -class network
 sudo lshw -class disk
 ```
 
+> [!NOTE]
+> Requiere privilegios de root para mostrar toda la información.
+> Útil para diagnóstico e inventario de hardware.
+
