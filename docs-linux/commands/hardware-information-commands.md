@@ -66,6 +66,13 @@ sudo lshw -class network
 sudo lshw -class disk
 ```
 
+## Funciones principales
+
+- Detectar hardware instalado
+- Mostrar especificaciones técnicas
+- Consultar dispositivos conectados
+- Obtener información del sistema
+
 > [!NOTE]
 > Requiere privilegios de root para mostrar toda la información.
 > Útil para diagnóstico e inventario de hardware.
@@ -73,11 +80,13 @@ sudo lshw -class disk
 ### Instalación de dmidecode
 
 #### Sistemas Basados en Debian
+
 ```bash
 sudo apt install dmidecode
 ```
 
 #### Sistemas Basados en Red Hat
+
 ```bash
 sudo dnf install dmidecode
 ```
@@ -88,3 +97,8 @@ sudo dnf install dmidecode
 sudo dmidecode
 ```
 
+#### Mostrar Información del BIOS
+
+```bash
+sudo dmidecode -t bios
+```
