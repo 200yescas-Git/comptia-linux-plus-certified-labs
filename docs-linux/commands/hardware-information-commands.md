@@ -25,3 +25,17 @@ Estas herramientas son ampliamente utilizadas en:
 - soporte técnico
 
 ## Instalación de lshw
+
+#### Sistemas Basados en Debian
+
+```bash
+sudo apt install lshw
+```
+
+#### Sistemas Basados en Red Hat
+
+```bash
+sudo dnf install lshw
+```
+
+
