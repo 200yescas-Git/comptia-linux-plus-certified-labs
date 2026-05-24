@@ -218,7 +218,6 @@ El comando `lspci` muestra información sobre los dispositivos conectados al bus
 lspci
 ```
 
-
 #### Mostrar Información Detallada
 
 ```bash
@@ -249,5 +248,12 @@ lspci | grep -i vga
 lspci -n
 ```
 
+## Funciones principales de `lspci`
+
+- Detectar tarjetas de red
+- Identificar tarjetas gráficas
+- Ver controladores SATA/NVMe
+- Consultar dispositivos PCI instalados
+- Obtener información de hardware conectado
 
 
