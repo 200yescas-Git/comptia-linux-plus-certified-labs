@@ -256,4 +256,9 @@ lspci -n
 - Consultar dispositivos PCI instalados
 - Obtener información de hardware conectado
 
+> [!NOTE]
+> Generalmente no requiere privilegios de root.
+> Útil para identificar tarjetas de red, GPU, controladores y otros dispositivos PCI.
+> Muy usado en diagnóstico y troubleshooting de hardware.
+
 
