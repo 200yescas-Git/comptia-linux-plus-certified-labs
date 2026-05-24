@@ -212,10 +212,42 @@ free -g
 
 El comando `lspci` muestra información sobre los dispositivos conectados al bus PCI del sistema.
 
-## Ejemplo Básico
+### Ejemplo Básico
 
 ```bash
 lspci
 ```
+
+
+#### Mostrar Información Detallada
+
+```bash
+lspci -v
+```
+
+#### Mostrar Información Muy Detallada
+
+```bash
+lspci -vv
+```
+
+#### Mostrar Dispositivos de Red
+
+```bash
+lspci | grep -i network
+```
+
+#### Mostrar Dispositivos VGA o Tarjeta Gráfica
+
+```bash
+lspci | grep -i vga
+```
+
+#### Mostrar IDs Numéricos de Dispositivos
+
+```bash
+lspci -n
+```
+
 
 
