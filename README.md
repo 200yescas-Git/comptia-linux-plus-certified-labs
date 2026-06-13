@@ -36,3 +36,7 @@ Respositorio dedicado a mis prácticas,laboratorios y temas de estudios para la 
 
 ##
 Este repositorio será mi ruta de aprendizaje y Documentación para mi aprendizaje profundo en linux,Administración de Sistemas.redes y Automatización.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
