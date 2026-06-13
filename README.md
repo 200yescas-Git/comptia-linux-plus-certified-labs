@@ -2,8 +2,8 @@
   <img src="assets/banners/comptia-linux-banner.png">
 </p>
 
-# CompTIA Linux+ Certified
-CentOs-Debian Distribution
+# CompTIA Linux+ 
+
 Respositorio dedicado a mis prácticas,laboratorios y temas de estudios para la preparación y formalización de mis conocimientos GNU/Linux en la certificación de CompTIA Linux+.
 
 ## Objetivos
