@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="assets/banners/comptia-linux-banner.png">
+  <img src="assets/banner/lpi-logo-colour-reverse.svg" width="900"/>
 </p>
+
+<h1 align="center">CompTIA Study Repository</h1>
+<p align="center">CompTIA Linux+ Certified</p>
 
 # CompTIA Linux+ 
 
