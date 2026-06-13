@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner/lpi-logo-colour-reverse.svg" width="900"/>
+  <img src="assets/banners/comptia-linux-banner.png" width="900"/>
 </p>
 
 <h1 align="center">CompTIA Study Repository</h1>
