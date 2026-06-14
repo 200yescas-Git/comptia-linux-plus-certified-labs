@@ -12,6 +12,7 @@ https://www.debian.org/
 ISO usada para la creación de laboratorios Linux y preparación para certificación CompTIA Linux+
 
 ## Verificación
+
 ```bash
 sha256sum debian-13.4.0.iso
 ```
