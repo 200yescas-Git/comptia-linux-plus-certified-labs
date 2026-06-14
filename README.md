@@ -37,8 +37,11 @@ Respositorio dedicado a mis prácticas,laboratorios y temas de estudios para la 
 ## Estado del Proyecto
 - En vía de desarrollo
 
-##
-Este repositorio será mi ruta de aprendizaje y Documentación para mi aprendizaje profundo en linux,Administración de Sistemas.redes y Automatización.
+**Autor:** Yescas  
+**Automatización | Linux | Redes | Ciberseguridad | DevOps | Cloud Computing**
+
+>[NOTE!]
+>Este repositorio documenta el progreso, las prácticas y los conocimientos adquiridos durante cada etapa de esta ruta profesional.
 
 ## License
 
